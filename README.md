@@ -12,3 +12,6 @@ Our preparation of the model is divided into three parts:
 
 3. Lastly, a model is trained using Artificial Neural Network and fitted in the robot to avoid obstacles in real-time and reach the desired location.It can be achieved through Neural Network using Backpropagation algorithm to recognize obstacles in the environment and control its speed. 
 
+DESIGN:
+
+![STRUCTURE](https://user-images.githubusercontent.com/52497145/61578020-c0dacc80-ab0d-11e9-80e4-799729916243.png)
